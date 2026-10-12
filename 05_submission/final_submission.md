@@ -2,7 +2,9 @@
 
 October 12, 2026
 Looknath Das
+https://neuralcoder1.github.io/moveinsync_FDE/
 
+https://github.com/NeuralCoder1/moveinsync_FDE
 
 
 # Table of Contents
