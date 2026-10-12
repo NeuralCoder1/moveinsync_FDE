@@ -1,0 +1,40 @@
+﻿ID: 21171 | Not expected out of such time bounded work we do and need to reach on time to work, this causes a lot of issue with missing the cab.
+ID: 14964 | Every now and then i receive notifications saying that I have an older version in my mobile and reminds me to update it to the latest version.
+ID: 12020 | It worked for 2 days after installation but now app itself is not opening (shows only opening screen).
+ID: 7888 | It's not user friendly.
+ID: 7782 | Worst case I've ever faced in the app is, OTP changed after my trip started and the end OTP is not accepting.
+ID: 19105 | This application does not show log out if we stretch as it shows only ad hoc and even after booking adhoc the cab is not alloted.
+ID: 17635 | Most of the time the cabs are late.
+ID: 15488 | When I open the app to see where the location of the cab is then It says" move in sync keeps stopping " This is happening after the update please look into it ASAP It's not letting me to see the cab drivers number, location, not allowing me to make a call to the driver , this is becoming pretty inconvenient
+ID: 7415 | The app crashes frequently in first place.
+ID: 10857 | But from last few months the App has been very very slow and it's a pain to use it for a single booking..
+ID: 8048 | Even if you provide feedback through received notification app does not understand it and ask me to again provide feedback upon opening & blocks me.
+ID: 10967 | App stuck on splash screen.
+ID: 3073 | The app frequently crashes or hangs while booking cabs, which makes it really frustrating, especially when I’m in a hurry.
+ID: 16183 | There is no proper options to cancel the ride after 24 hrs.
+ID: 15937 | The app does not let me book cab.
+ID: 20784 | This app doesn't provides cab according to the route rather it clubs the exact opposite route and had to travel in Cab for almost an hour to reach office which usually takes only 15 mins.
+ID: 16157 | Initially the app was working fine but after the update it's become worst.
+ID: 5228 | Under Bookings "Login and logouts" interface are very confusing.
+ID: 12529 | It's not the worst app I've ever used, but it's among the bottom three. It'd be nice if the Product team spent more time understanding the use cases for this product as opposed to releasing a version that caters to one flow. Honestly, one engineer with a Google Sheets file could do a better job managing office entry and exit. Would not recommend.
+ID: 7324 | It's disgusting, worst and useless app.
+ID: 23638 | It doesn't even provide cancellation option.
+ID: 16518 | More, a cancelled billing won't get off your screen.
+ID: 19897 | This is not good because people tend to miss feedback notifications that appear late after the trip is complete even when they have feedback.
+ID: 23179 | This app is now showing an annoying "INternet DisConnected" toast message.
+ID: 5085 | The cab was shown at a different location due to a glitch in the app, but the driver reached the correct location and left without picking me up.
+ID: 17754 | Gives false information on pickup and arrival time.
+ID: 6400 | I have given complaint on this so many times but no response from the move in sync team.
+ID: 10683 | I am unable to book the cab.
+ID: 3529 | Could not call the bus driver at critical time, as if I click on the call button, it says like The company policy is not allowed to call.
+ID: 13288 | Don't want forced Bluetooth and WiFi turned on, it's bad after the latest update.
+ID: 16406 | After the latest update passengers are unable to find the route assigned to the vehicle.
+ID: 20439 | The date selector on calendar doesn't respond correctly.
+ID: 5753 | After the recent update, Whenever I try to login for checking the cab details the text box entering the otp doesn't appear.
+ID: 12980 | Most of the times the doesn't work It's just keep loading Kindly resolve this bug.......
+ID: 13439 | Worst App every day it change the pickup time.
+ID: 13801 | Something that should be very simple is made unnecessarily complicated and even if you cancel trips, someone will still try and pick you up.
+ID: 15698 | And please give some colorbox for each pick up or drop pints.
+ID: 23832 | Earlier I was able to see and track schedule...now it doesn't show schedule also....any update..
+ID: 2592 | When user is waiting for cab at source why you want to keep the destination also in the view?
+ID: 4805 | I log in and first time it logs in to the app correctly.

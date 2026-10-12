@@ -1,0 +1,12 @@
+record_type,scenario,rank,theme,n_theme,pessimistic_delta,base_delta,optimistic_delta,projected_base_rating
+theme,,1,app functionality error,41,0.000071304,0.000142609,0.000213913,
+theme,,2,booking failure,23,0.000040000,0.000080000,0.000120000,
+theme,,3,feature request,22,0.000038261,0.000076522,0.000114783,
+theme,,4,UI confusing,16,0.000027826,0.000055652,0.000083478,
+theme,,5,login failure,12,0.000020870,0.000041739,0.000062609,
+theme,,6,route planning inaccurate,12,0.000020870,0.000041739,0.000062609,
+theme,,7,app launch failure,11,0.000019130,0.000038261,0.000057391,
+theme,,8,drop location error,11,0.000019130,0.000038261,0.000057391,
+cumulative,P0 only,,Top 3,86,,0.000299130,,4.640299130
+cumulative,P0 + P1,,Top 6,126,,0.000438261,,4.640438261
+cumulative,All themes,,All 12 Pareto themes,181,,0.000629565,,4.640629565

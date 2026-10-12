@@ -1,0 +1,16 @@
+The Problem: MoveInSync's Play Store displays 4.64★ (metadata value 4.6382785; 114,872 ratings, retrieved 2026-10-11), while the 24,314-review sample averages 3.61★ — a 1.03★ gap. The 2024–2026 sample mean is 3.71★, 0.93★ below the displayed rating. Coding 320 reviews against the case study's own journey taxonomy shows the problem is concentrated, not sprawling: the top 5 themes explain 50% of actionable complaints, 90.6% of all coded rows are labeled App-fix, and 20.5% of actionable reviews are Blockers where users could not complete their task. The two dominant stages — Cab/Shuttle Assignment and Live Tracking — represent the emotional core of the product.
+
+The Root Cause: MoveInSync's Help Center has support workflows for app crashes, launch/login/OTP failures, and GPS loss. Its GPS article directs operations staff to inspect trip-route speed and Device Health logs, including GPS-on status and coordinate accuracy; this documents an operational diagnostic workflow, not proof of a rider-app defect rate. Screenshot-verified employee ratings are AmbitionBox 3.1/5 (293 reviews) and Glassdoor 3.0/5 (223 reviews); individual comments are context, not proof of app root cause. The company's blog describes a historical 4.6→4.3 rating drop and a recovery effort with personalized review responses; current reply cadence is not established.
+
+The Fix — and Why It's Not What You Expect: The rebased rating-lift model retains its assumption that ordinary incoming reviews average 4.3★. With the authoritative 4.64★ starting point, the Base case prevents ~23 negative reviews and adds ~144 prompted 5★ reviews over 6 months, projecting 4.6372★ (a modeled change of −0.0028★). The small decline reflects the modeled ordinary-review average being below the current rating; fixing defects protects users and reduces negative-review generation, but does not guarantee a quick lift to the cumulative display.
+
+To materially raise the displayed rating, MoveInSync needs two parallel strategies:
+
+Strategy A — Stop the bleeding. Fix the P0 issues so the recent review stream stops dragging the average down. This protects the rating from future decline.
+
+Strategy B — Rebuild the review pipeline. Add in-app rating prompts at post-trip delight moments. Target employees who completed a trip without issue. The model assumes 24 additional prompted 5★ reviews per month in its Base case; its more aggressive rebuilt-pipeline scenario projects 4.6492★ at 24 months from the 4.64★ starting point. Treat this as a scenario to test, not a guaranteed or material shift.
+
+Strategy C — Work through enterprise transport desks. MoveInSync's users are captive — they didn't choose the app. The channel has a reported reach (430+ enterprise customers, per the case study brief); these clients can be enlisted to nudge employees to rate the app after a good trip, via internal newsletters or comms.
+
+The Proof: This analysis is based on 114,872 Play Store ratings in the scraped metadata snapshot, a 24,314-review text sample, 50,346 App Store reviews, MoveInSync's own Help Center documentation, the company's own blog post about their previous rating recovery, and public social/employer reviews. The methodology is repeatable. The dashboard spec is included.
+
