@@ -29,7 +29,7 @@ rebuild the review pipeline with in-app prompts and a 100% reply SLA; complete
 crash remediation and enterprise outreach this quarter; and replace the
 displayed rating as the primary success measure with live leading indicators.
 
-**Live dashboard:** [Open the dashboard](https://neuralcoder1.github.io/moveinsync-case-study/)
+**Live dashboard:** [Open the dashboard](https://neuralcoder1.github.io/moveinsync_FDE/)
 
 **Full submission:** [PDF](05_submission/final_submission.pdf)
 
