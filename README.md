@@ -1,6 +1,6 @@
 # MoveInSync Play Store Rating — Case Study Submission
 
-**Author:** Your Name | **Submitted:** October 12, 2026 | **Role:** Forward Deployed Engineer, MoveInSync
+**Author:** Looknath Das | **Submitted:** October 12, 2026 | **Role:** Forward Deployed Engineer, MoveInSync
 
 ## Executive summary
 
@@ -29,9 +29,7 @@ rebuild the review pipeline with in-app prompts and a 100% reply SLA; complete
 crash remediation and enterprise outreach this quarter; and replace the
 displayed rating as the primary success measure with live leading indicators.
 
-**Live dashboard:** [Open the dashboard](https://[USERNAME].github.io/moveinsync-case-study/)
-
-Replace `[USERNAME]` with the GitHub Pages account name before publishing.
+**Live dashboard:** [Open the dashboard](https://neuralcoder1.github.io/moveinsync-case-study/)
 
 **Full submission:** [PDF](05_submission/final_submission.pdf)
 
